@@ -12,16 +12,16 @@ void main()
         switch(a)
         {
             case 1:
-                printf("Chal Jhaatu");
+                printf("Galat Jawab (Yadav ji Bihari hai)");
                 break;
             case 2:
                 printf("Kuch aur choose kar");
                 break;
             case 3;
-                printf("Jai Mata Di");
+                printf("Bilkul Sahi Jawab!");
                 break;
             case 4:
-                printf("Nitish Kumar Zindabad");
+                printf("Wo Muflar wala PM banega? Nice joke!");
                 break;
             Default:
                 printf("bsdk sahi imput daal");
